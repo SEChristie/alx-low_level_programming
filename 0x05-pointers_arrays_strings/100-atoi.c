@@ -6,7 +6,7 @@
  * Return: the converted integer
 */
 
-int_atoi(char *s)
+int _atoi(char *s)
 {
 	int i, value, sign;
 	char c;
