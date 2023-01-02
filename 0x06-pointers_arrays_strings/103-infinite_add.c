@@ -6,7 +6,7 @@
  * @r: buffer for result
  * @size_r: buffer size
  * Return: 0 if the result cannot be stored in r
- * otherwise a pointer to the result 
+ * otherwise a pointer to the result
 */
 char *infinite_add(char *n1, char *n2, char *r, int size_r)
 {
