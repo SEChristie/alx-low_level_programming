@@ -1,7 +1,5 @@
 #include "main.h"
 
-void print_uint(unsigned int n);
-
 /**
  * print_number - prints an integer
  * @n: the integer to print
@@ -14,7 +12,6 @@ void print_number(int n)
 		_putchar('-');
 		n = -n;
 	}
-	print_uint((unsigned int) n);
 }
 
 /**
