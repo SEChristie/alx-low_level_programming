@@ -1,10 +1,11 @@
 #include "main.h"
+
 /**
  * infinite_add - adds two numbers
  * @n1: first number
  * @n2: second number
- * @r: buffer for result
- * @size_r: buffer size
+ * @r: result buffer
+ * @size_r: result buffer size
  * Return: 0 if the result cannot be stored in r
  * otherwise a pointer to the result
 */
