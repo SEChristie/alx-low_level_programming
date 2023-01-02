@@ -1,5 +1,9 @@
 #include <stdio.h>
-#include main.h
+#include <main.h>
+/**
+ * main - check code
+ * Return: Always
+*/
 int main(void);
 {
 	int n;
